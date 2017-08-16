@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.samson.miwork_app.MainActivity"
+    android:orientation="vertical"
+    android:background="@color/tan_background">
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="Numbers"
+        />
+    <TextView
+        android:id="@+id/family"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="Family"
+        />
+    <TextView
+        android:id="@+id/colors"
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:text="Colors"
+        />
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/CategoryStyle"
+        android:background="@color/category_phrases"
+        android:text="Phrases"
+        />
+
+
+
+
+
+</LinearLayout>

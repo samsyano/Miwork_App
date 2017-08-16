@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Miwork_App</string>
+
+
+    <!-- Category name for phrases -->
+    <string name="category_name">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_family">Family</string>
+    <string name="category_numbers">Numbers</string>
+
+</resources>
